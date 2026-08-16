@@ -97,7 +97,7 @@ A guide covering Bash/PowerShell scripting languages including the applications 
 
 [Visual Studio Code Remote Development and GitHub Codespaces](https://github.com/Microsoft/vscode-dev-containers) ⚠️ Archived is a  repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces. A development container is a running [Docker](https://www.docker.com/) container with a well-defined tool/runtime stack and its prerequisites. The [VS Code Remote Containers](https://aka.ms/vscode-remote/download/containers) extension allows you to clone a repository or open any folder mounted into (or already inside) a dev container and take advantage of VS Code's full development feature set. [GitHub Codespaces](https://github.com/features/codespaces) both use this same concept to quickly create customized, cloud-based development environments accessible from VS Code or the web.
 
-[Windows Terminal](https://github.com/microsoft/terminal) ⭐ 104,614 | 🐛 1,736 | 🌐 C++ | 📅 2026-08-13 is a new, modern, feature-rich, productive terminal application for command-line users. It includes many of the features most frequently requested by the Windows command-line community including support for tabs, rich text, globalization, configurability, theming & styling, and more.
+[Windows Terminal](https://github.com/microsoft/terminal) ⭐ 104,620 | 🐛 1,738 | 🌐 C++ | 📅 2026-08-15 is a new, modern, feature-rich, productive terminal application for command-line users. It includes many of the features most frequently requested by the Windows command-line community including support for tabs, rich text, globalization, configurability, theming & styling, and more.
 
 [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) is a hypevisor developed by Microsoft that delivers enterprise-class virtualization for your datacenter and hybrid cloud.
 
@@ -107,7 +107,7 @@ A guide covering Bash/PowerShell scripting languages including the applications 
 
 [VS Code Bash Debug](https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug) is a bash debugger GUI frontend based on awesome bashdb scripts (bashdb now included in package).
 
-[VS Code Bash IDE](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode) is a Visual Studio Code extension utilizing the [bash language server](https://github.com/bash-lsp/bash-language-server/blob/master/bash-lsp) ⭐ 2,767 | 🐛 134 | 🌐 TypeScript | 📅 2026-08-11, that is based on [Tree Sitter](https://github.com/tree-sitter/tree-sitter) ⭐ 26,647 | 🐛 123 | 🌐 Rust | 📅 2026-08-15 and its [grammar for Bash](https://github.com/tree-sitter/tree-sitter-bash) ⭐ 325 | 🐛 76 | 🌐 C | 📅 2025-12-02 and supports [explainshell](https://explainshell.com/) integration.
+[VS Code Bash IDE](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode) is a Visual Studio Code extension utilizing the [bash language server](https://github.com/bash-lsp/bash-language-server/blob/master/bash-lsp) ⭐ 2,768 | 🐛 134 | 🌐 TypeScript | 📅 2026-08-11, that is based on [Tree Sitter](https://github.com/tree-sitter/tree-sitter) ⭐ 26,661 | 🐛 122 | 🌐 Rust | 📅 2026-08-16 and its [grammar for Bash](https://github.com/tree-sitter/tree-sitter-bash) ⭐ 325 | 🐛 76 | 🌐 C | 📅 2025-12-02 and supports [explainshell](https://explainshell.com/) integration.
 
 # DevOps Tools Integration
 
@@ -236,7 +236,7 @@ A guide covering Bash/PowerShell scripting languages including the applications 
 
 [Docker](https://www.docker.com/) is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels. All containers are run by a single operating-system kernel and are thus more lightweight than virtual machines.
 
-[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,108 | 🐛 221 | 🌐 Rust | 📅 2026-08-15 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
+[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,110 | 🐛 221 | 🌐 Rust | 📅 2026-08-15 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
 
 [VMware vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor.html) is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure.
 
@@ -246,7 +246,7 @@ A guide covering Bash/PowerShell scripting languages including the applications 
 
 [Rancher](https://rancher.com/) is a complete software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters, while providing DevOps teams with integrated tools for running containerized workloads.
 
-[K3s](https://github.com/rancher/k3s) ⭐ 33,734 | 🐛 71 | 🌐 Go | 📅 2026-08-14 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
+[K3s](https://github.com/rancher/k3s) ⭐ 33,737 | 🐛 71 | 🌐 Go | 📅 2026-08-15 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
 [Rook](https://rook.io/) is an open source cloud-native storage orchestrator for Kubernetes that turns distributed storage systems into self-managing, self-scaling, self-healing storage services. It automates the tasks of a storage administrator: deployment, bootstrapping, configuration, provisioning, scaling, upgrading, migration, disaster recovery, monitoring, and resource management.
 
@@ -268,7 +268,7 @@ A guide covering Bash/PowerShell scripting languages including the applications 
 
 [Helm](https://helm.sh/) is the Kubernetes Package Manager.
 
-[Kubespray](https://kubespray.io/) is a tool that combines Kubernetes and Ansible to easily install Kubernetes clusters that can be deployed on [AWS](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/aws.md) ⭐ 18,682 | 🐛 202 | 🌐 Jinja | 📅 2026-08-11, GCE, [Azure](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/azure.md) ⭐ 18,682 | 🐛 202 | 🌐 Jinja | 📅 2026-08-11, [OpenStack](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/openstack.md) ⭐ 18,682 | 🐛 202 | 🌐 Jinja | 📅 2026-08-11, [vSphere](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/vsphere.md) ⭐ 18,682 | 🐛 202 | 🌐 Jinja | 📅 2026-08-11, [Packet](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/packet.md) ⭐ 18,682 | 🐛 202 | 🌐 Jinja | 📅 2026-08-11 (bare metal), Oracle Cloud Infrastructure (Experimental), or Baremetal
+[Kubespray](https://kubespray.io/) is a tool that combines Kubernetes and Ansible to easily install Kubernetes clusters that can be deployed on [AWS](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/aws.md) ⭐ 18,686 | 🐛 202 | 🌐 Jinja | 📅 2026-08-11, GCE, [Azure](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/azure.md) ⭐ 18,686 | 🐛 202 | 🌐 Jinja | 📅 2026-08-11, [OpenStack](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/openstack.md) ⭐ 18,686 | 🐛 202 | 🌐 Jinja | 📅 2026-08-11, [vSphere](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/vsphere.md) ⭐ 18,686 | 🐛 202 | 🌐 Jinja | 📅 2026-08-11, [Packet](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/packet.md) ⭐ 18,686 | 🐛 202 | 🌐 Jinja | 📅 2026-08-11 (bare metal), Oracle Cloud Infrastructure (Experimental), or Baremetal
 
 [OKD](https://okd.io/) is a community distribution of Kubernetes optimized for continuous application development and multi-tenant deployment. OKD adds developer and operations-centric tools on top of Kubernetes to enable rapid application development, easy deployment and scaling, and long-term lifecycle maintenance for small and large teams.
 
@@ -375,13 +375,13 @@ A guide covering Bash/PowerShell scripting languages including the applications 
 
 [VMware Tanzu](https://tanzu.vmware.com/tanzu) is a centralized management platform for consistently operating and securing your Kubernetes infrastructure and modern applications across multiple teams and private/public clouds.
 
-[Kubespray](https://kubespray.io/) is a tool that combines Kubernetes and Ansible to easily install Kubernetes clusters that can be deployed on [AWS](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/aws.md) ⭐ 18,682 | 🐛 202 | 🌐 Jinja | 📅 2026-08-11, GCE, [Azure](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/azure.md) ⭐ 18,682 | 🐛 202 | 🌐 Jinja | 📅 2026-08-11, [OpenStack](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/openstack.md) ⭐ 18,682 | 🐛 202 | 🌐 Jinja | 📅 2026-08-11, [vSphere](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/vsphere.md) ⭐ 18,682 | 🐛 202 | 🌐 Jinja | 📅 2026-08-11, [Packet](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/packet.md) ⭐ 18,682 | 🐛 202 | 🌐 Jinja | 📅 2026-08-11 (bare metal), Oracle Cloud Infrastructure (Experimental), or Baremetal.
+[Kubespray](https://kubespray.io/) is a tool that combines Kubernetes and Ansible to easily install Kubernetes clusters that can be deployed on [AWS](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/aws.md) ⭐ 18,686 | 🐛 202 | 🌐 Jinja | 📅 2026-08-11, GCE, [Azure](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/azure.md) ⭐ 18,686 | 🐛 202 | 🌐 Jinja | 📅 2026-08-11, [OpenStack](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/openstack.md) ⭐ 18,686 | 🐛 202 | 🌐 Jinja | 📅 2026-08-11, [vSphere](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/vsphere.md) ⭐ 18,686 | 🐛 202 | 🌐 Jinja | 📅 2026-08-11, [Packet](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/packet.md) ⭐ 18,686 | 🐛 202 | 🌐 Jinja | 📅 2026-08-11 (bare metal), Oracle Cloud Infrastructure (Experimental), or Baremetal.
 
 [KubeInit](https://github.com/kubeinit/kubeinit) ⭐ 223 | 🐛 5 | 🌐 Python | 📅 2025-12-05 provides Ansible playbooks and roles for the deployment and configuration of multiple Kubernetes distributions.
 
 [Rancher](https://rancher.com/) is a complete software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters, while providing DevOps teams with integrated tools for running containerized workloads.
 
-[K3s](https://github.com/rancher/k3s) ⭐ 33,734 | 🐛 71 | 🌐 Go | 📅 2026-08-14 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
+[K3s](https://github.com/rancher/k3s) ⭐ 33,737 | 🐛 71 | 🌐 Go | 📅 2026-08-15 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
 [Helm](https://helm.sh/) is a Kubernetes Package Manager tool that makes it easier to install and manage Kubernetes applications.
 
@@ -614,7 +614,7 @@ A guide covering Bash/PowerShell scripting languages including the applications 
 
 [Azure Key Vault Explorer](https://github.com/microsoft/AzureKeyVaultExplorer/blob/master/README.md) ⭐ 215 | 🐛 47 | 🌐 C# | 📅 2023-07-07  is a  client tool to help be productive when working with secrets.
 
-[Azurite](https://github.com/Azure/Azurite/blob/master/README.md) ⭐ 2,243 | 🐛 380 | 🌐 TypeScript | 📅 2026-08-13 is an open source Azure Storage API compatible server (emulator). Based on Node.js, Azurite provides cross platform experiences for customers wanting to try Azure Storage easily in a local environment. Azurite simulates most of the commands supported by Azure Storage with minimal dependencies.
+[Azurite](https://github.com/Azure/Azurite/blob/master/README.md) ⭐ 2,244 | 🐛 380 | 🌐 TypeScript | 📅 2026-08-13 is an open source Azure Storage API compatible server (emulator). Based on Node.js, Azurite provides cross platform experiences for customers wanting to try Azure Storage easily in a local environment. Azurite simulates most of the commands supported by Azure Storage with minimal dependencies.
 
 [Azure Cloud Shell](https://shell.azure.com/) is an interactive, authenticated, browser-accessible shell for managing Azure resources. It provides the flexibility of choosing the shell experience that best suits the way you work, either Bash or PowerShell.
 
@@ -785,7 +785,7 @@ A guide covering Bash/PowerShell scripting languages including the applications 
 
 [AWS Amplify Command Line Interface (CLI)](https://docs.amplify.aws/cli) is a unified toolchain to create, integrate, and manage the AWS cloud services for your app.
 
-[AWS Serverless Application Model (SAM) CLI](https://github.com/aws/aws-sam-cli) ⭐ 6,728 | 🐛 535 | 🌐 Python | 📅 2026-08-15 is a command line tool for an open-source framework for building serverless applications. It provides shorthand syntax to express functions, APIs, databases, and event source mappings. With just a few lines of configuration, you can define the application you want and model it.
+[AWS Serverless Application Model (SAM) CLI](https://github.com/aws/aws-sam-cli) ⭐ 6,728 | 🐛 537 | 🌐 Python | 📅 2026-08-15 is a command line tool for an open-source framework for building serverless applications. It provides shorthand syntax to express functions, APIs, databases, and event source mappings. With just a few lines of configuration, you can define the application you want and model it.
 
 [AWS Copilot command line interface (CLI)](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Copilot.html) is a command line tool that simplifies building, releasing, and operating production-ready containerized applications on Amazon ECS from a local development environment. The AWS Copilot CLI aligns with developer workflows that support modern application best practices: from using infrastructure as code to creating a CI/CD pipeline provisioned on behalf of a user.
 
@@ -1386,4 +1386,4 @@ Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
