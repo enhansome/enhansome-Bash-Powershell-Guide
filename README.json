@@ -171,7 +171,7 @@
             "last_commit": "2023-11-30T01:20:08Z",
             "owner": "microsoft",
             "repo": "vscode-dev-containers",
-            "stars": 4743
+            "stars": 4744
           }
         },
         {
@@ -183,10 +183,10 @@
             "archived": false,
             "id": 100060912,
             "language": "C++",
-            "last_commit": "2026-08-25T03:05:39Z",
+            "last_commit": "2026-08-26T03:04:00Z",
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104689
+            "stars": 104694
           }
         }
       ],
@@ -204,7 +204,7 @@
             "archived": false,
             "id": 148682741,
             "language": "Go",
-            "last_commit": "2026-08-24T18:23:22Z",
+            "last_commit": "2026-08-26T00:09:06Z",
             "owner": "openshift",
             "repo": "hive",
             "stars": 275
@@ -219,7 +219,7 @@
             "archived": false,
             "id": 286818960,
             "language": "Shell",
-            "last_commit": "2026-08-25T09:08:24Z",
+            "last_commit": "2026-08-26T09:22:07Z",
             "owner": "openshift",
             "repo": "sandboxed-containers-operator",
             "stars": 50
@@ -324,10 +324,10 @@
             "archived": false,
             "id": 184341774,
             "language": "Rust",
-            "last_commit": "2026-08-25T08:41:10Z",
+            "last_commit": "2026-08-25T15:29:14Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6142
+            "stars": 6145
           }
         },
         {
@@ -339,10 +339,10 @@
             "archived": false,
             "id": 135516270,
             "language": "Go",
-            "last_commit": "2026-08-22T18:13:00Z",
+            "last_commit": "2026-08-25T18:18:07Z",
             "owner": "k3s-io",
             "repo": "k3s",
-            "stars": 33811
+            "stars": 33822
           }
         },
         {
@@ -447,7 +447,7 @@
             "last_commit": "2025-01-06T08:37:10Z",
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17087
+            "stars": 17089
           }
         },
         {
@@ -459,7 +459,7 @@
             "archived": false,
             "id": 1661758,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T13:12:20Z",
+            "last_commit": "2026-08-25T16:49:47Z",
             "owner": "restify",
             "repo": "node-restify",
             "stars": 10685
@@ -482,7 +482,7 @@
                 "archived": false,
                 "id": 286818960,
                 "language": "Shell",
-                "last_commit": "2026-08-25T09:08:24Z",
+                "last_commit": "2026-08-26T09:22:07Z",
                 "owner": "openshift",
                 "repo": "sandboxed-containers-operator",
                 "stars": 50
@@ -497,7 +497,7 @@
                 "archived": false,
                 "id": 148682741,
                 "language": "Go",
-                "last_commit": "2026-08-24T18:23:22Z",
+                "last_commit": "2026-08-26T00:09:06Z",
                 "owner": "openshift",
                 "repo": "hive",
                 "stars": 275
@@ -527,10 +527,10 @@
                 "archived": false,
                 "id": 135516270,
                 "language": "Go",
-                "last_commit": "2026-08-22T18:13:00Z",
+                "last_commit": "2026-08-25T18:18:07Z",
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 33811
+                "stars": 33822
               }
             }
           ],
@@ -585,7 +585,7 @@
                 "archived": false,
                 "id": 122269892,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T07:03:20Z",
+                "last_commit": "2026-08-26T08:14:37Z",
                 "owner": "Azure",
                 "repo": "Azurite",
                 "stars": 2250
@@ -613,7 +613,7 @@
                 "archived": false,
                 "id": 92205085,
                 "language": "Python",
-                "last_commit": "2026-08-25T09:01:39Z",
+                "last_commit": "2026-08-26T09:01:43Z",
                 "owner": "aws",
                 "repo": "aws-sam-cli",
                 "stars": 6731
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:17:48.687Z",
+    "last_updated": "2026-08-26T09:22:50.459Z",
     "original_repository": "mikeroyal/Bash-Powershell-Guide",
     "original_repository_id": 301529364,
     "original_repository_sha": "e27408589dd532280c13f70a79b84df90ad766c6",
