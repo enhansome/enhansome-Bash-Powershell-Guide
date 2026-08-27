@@ -183,10 +183,10 @@
             "archived": false,
             "id": 100060912,
             "language": "C++",
-            "last_commit": "2026-08-27T03:04:05Z",
+            "last_commit": "2026-08-27T18:08:39Z",
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104700
+            "stars": 104705
           }
         }
       ],
@@ -204,7 +204,7 @@
             "archived": false,
             "id": 148682741,
             "language": "Go",
-            "last_commit": "2026-08-26T00:09:06Z",
+            "last_commit": "2026-08-27T19:00:12Z",
             "owner": "openshift",
             "repo": "hive",
             "stars": 275
@@ -219,7 +219,7 @@
             "archived": false,
             "id": 286818960,
             "language": "Shell",
-            "last_commit": "2026-08-27T10:32:37Z",
+            "last_commit": "2026-08-27T16:05:22Z",
             "owner": "openshift",
             "repo": "sandboxed-containers-operator",
             "stars": 50
@@ -324,10 +324,10 @@
             "archived": false,
             "id": 184341774,
             "language": "Rust",
-            "last_commit": "2026-08-27T10:13:32Z",
+            "last_commit": "2026-08-27T17:32:43Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6151
+            "stars": 6152
           }
         },
         {
@@ -339,10 +339,10 @@
             "archived": false,
             "id": 135516270,
             "language": "Go",
-            "last_commit": "2026-08-25T18:18:07Z",
+            "last_commit": "2026-08-27T16:11:17Z",
             "owner": "k3s-io",
             "repo": "k3s",
-            "stars": 33830
+            "stars": 33836
           }
         },
         {
@@ -482,7 +482,7 @@
                 "archived": false,
                 "id": 286818960,
                 "language": "Shell",
-                "last_commit": "2026-08-27T10:32:37Z",
+                "last_commit": "2026-08-27T16:05:22Z",
                 "owner": "openshift",
                 "repo": "sandboxed-containers-operator",
                 "stars": 50
@@ -497,7 +497,7 @@
                 "archived": false,
                 "id": 148682741,
                 "language": "Go",
-                "last_commit": "2026-08-26T00:09:06Z",
+                "last_commit": "2026-08-27T19:00:12Z",
                 "owner": "openshift",
                 "repo": "hive",
                 "stars": 275
@@ -527,10 +527,10 @@
                 "archived": false,
                 "id": 135516270,
                 "language": "Go",
-                "last_commit": "2026-08-25T18:18:07Z",
+                "last_commit": "2026-08-27T16:11:17Z",
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 33830
+                "stars": 33836
               }
             }
           ],
@@ -585,10 +585,10 @@
                 "archived": false,
                 "id": 122269892,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T08:14:37Z",
+                "last_commit": "2026-08-27T18:34:15Z",
                 "owner": "Azure",
                 "repo": "Azurite",
-                "stars": 2250
+                "stars": 2249
               }
             }
           ],
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:27:00.736Z",
+    "last_updated": "2026-08-27T19:14:40.899Z",
     "original_repository_info": {
       "archived": false,
       "id": 301529364,
