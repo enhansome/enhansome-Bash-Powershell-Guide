@@ -15,7 +15,7 @@
             "last_commit": "2024-01-04T22:19:22Z",
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
-            "stars": 62
+            "stars": 61
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-01-04T22:19:22Z",
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
-            "stars": 62
+            "stars": 61
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-01-04T22:19:22Z",
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
-            "stars": 62
+            "stars": 61
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-01-04T22:19:22Z",
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
-            "stars": 62
+            "stars": 61
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-01-04T22:19:22Z",
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
-            "stars": 62
+            "stars": 61
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2024-01-04T22:19:22Z",
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
-            "stars": 62
+            "stars": 61
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2024-01-04T22:19:22Z",
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
-            "stars": 62
+            "stars": 61
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2024-01-04T22:19:22Z",
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
-            "stars": 62
+            "stars": 61
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2024-01-04T22:19:22Z",
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
-            "stars": 62
+            "stars": 61
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2024-01-04T22:19:22Z",
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
-            "stars": 62
+            "stars": 61
           }
         }
       ],
@@ -171,7 +171,7 @@
             "last_commit": "2023-11-30T01:20:08Z",
             "owner": "microsoft",
             "repo": "vscode-dev-containers",
-            "stars": 4744
+            "stars": 4743
           }
         },
         {
@@ -183,10 +183,10 @@
             "archived": false,
             "id": 100060912,
             "language": "C++",
-            "last_commit": "2026-08-26T03:04:00Z",
+            "last_commit": "2026-08-27T03:04:05Z",
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104694
+            "stars": 104700
           }
         }
       ],
@@ -219,7 +219,7 @@
             "archived": false,
             "id": 286818960,
             "language": "Shell",
-            "last_commit": "2026-08-26T09:22:07Z",
+            "last_commit": "2026-08-27T10:32:37Z",
             "owner": "openshift",
             "repo": "sandboxed-containers-operator",
             "stars": 50
@@ -324,10 +324,10 @@
             "archived": false,
             "id": 184341774,
             "language": "Rust",
-            "last_commit": "2026-08-25T15:29:14Z",
+            "last_commit": "2026-08-27T10:13:32Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6145
+            "stars": 6151
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-08-25T18:18:07Z",
             "owner": "k3s-io",
             "repo": "k3s",
-            "stars": 33822
+            "stars": 33830
           }
         },
         {
@@ -447,7 +447,7 @@
             "last_commit": "2025-01-06T08:37:10Z",
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17089
+            "stars": 17091
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2026-08-25T16:49:47Z",
             "owner": "restify",
             "repo": "node-restify",
-            "stars": 10685
+            "stars": 10686
           }
         }
       ],
@@ -482,7 +482,7 @@
                 "archived": false,
                 "id": 286818960,
                 "language": "Shell",
-                "last_commit": "2026-08-26T09:22:07Z",
+                "last_commit": "2026-08-27T10:32:37Z",
                 "owner": "openshift",
                 "repo": "sandboxed-containers-operator",
                 "stars": 50
@@ -530,7 +530,7 @@
                 "last_commit": "2026-08-25T18:18:07Z",
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 33822
+                "stars": 33830
               }
             }
           ],
@@ -613,10 +613,10 @@
                 "archived": false,
                 "id": 92205085,
                 "language": "Python",
-                "last_commit": "2026-08-26T09:01:43Z",
+                "last_commit": "2026-08-27T09:46:35Z",
                 "owner": "aws",
                 "repo": "aws-sam-cli",
-                "stars": 6731
+                "stars": 6732
               }
             }
           ],
@@ -644,7 +644,7 @@
                 "last_commit": "2024-01-04T22:19:22Z",
                 "owner": "mikeroyal",
                 "repo": "Bash-Powershell-Guide",
-                "stars": 62
+                "stars": 61
               }
             }
           ],
@@ -657,9 +657,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:22:50.459Z",
-    "original_repository": "mikeroyal/Bash-Powershell-Guide",
-    "original_repository_id": 301529364,
+    "last_updated": "2026-08-27T11:27:00.736Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 301529364,
+      "language": "PowerShell",
+      "last_commit": "2024-01-04T22:19:22Z",
+      "owner": "mikeroyal",
+      "repo": "Bash-Powershell-Guide",
+      "stars": 61
+    },
     "original_repository_sha": "e27408589dd532280c13f70a79b84df90ad766c6",
     "enhanced_repository": "enhansome/enhansome-Bash-Powershell-Guide",
     "enhanced_repository_description": null,
