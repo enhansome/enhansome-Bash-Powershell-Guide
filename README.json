@@ -16,7 +16,8 @@
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         }
       ],
       "title": "Overview"
@@ -172,7 +182,8 @@
             "owner": "microsoft",
             "repo": "vscode-dev-containers",
             "stars": 4743
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -183,11 +194,12 @@
             "archived": false,
             "id": 100060912,
             "language": "C++",
-            "last_commit": "2026-08-27T18:08:39Z",
+            "last_commit": "2026-08-28T19:41:14Z",
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104705
-          }
+            "stars": 104721
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         }
       ],
       "title": "Bash/PowerShell Tools, Libraries, and Frameworks"
@@ -208,7 +220,8 @@
             "owner": "openshift",
             "repo": "hive",
             "stars": 275
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -219,11 +232,12 @@
             "archived": false,
             "id": 286818960,
             "language": "Shell",
-            "last_commit": "2026-08-27T16:05:22Z",
+            "last_commit": "2026-08-28T02:51:47Z",
             "owner": "openshift",
             "repo": "sandboxed-containers-operator",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "willthames",
             "repo": "ansible-inventory-grapher",
             "stars": 470
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -252,8 +267,9 @@
             "last_commit": "2026-08-05T02:50:31Z",
             "owner": "haidaraM",
             "repo": "ansible-playbook-grapher",
-            "stars": 758
-          }
+            "stars": 759
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "dominis",
             "repo": "ansible-shell",
             "stars": 547
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "nickjj",
             "repo": "ansigenome",
             "stars": 448
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -297,8 +315,9 @@
             "last_commit": "2026-07-13T13:02:21Z",
             "owner": "ansible-community",
             "repo": "ara",
-            "stars": 2019
-          }
+            "stars": 2020
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "Kubeinit",
             "repo": "kubeinit",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -324,11 +344,12 @@
             "archived": false,
             "id": 184341774,
             "language": "Rust",
-            "last_commit": "2026-08-27T17:32:43Z",
+            "last_commit": "2026-08-28T17:02:01Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6152
-          }
+            "stars": 6156
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -339,11 +360,12 @@
             "archived": false,
             "id": 135516270,
             "language": "Go",
-            "last_commit": "2026-08-27T16:11:17Z",
+            "last_commit": "2026-08-28T17:08:33Z",
             "owner": "k3s-io",
             "repo": "k3s",
-            "stars": 33836
-          }
+            "stars": 33842
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "Netflix",
             "repo": "inviso",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "Netflix",
             "repo": "Fenzo",
             "stars": 699
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "Netflix",
             "repo": "dynomite",
             "stars": 4215
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "Netflix",
             "repo": "dynomite",
             "stars": 4215
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "Netflix",
             "repo": "Raigad",
             "stars": 346
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "Netflix",
             "repo": "Priam",
             "stars": 1039
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -447,8 +475,9 @@
             "last_commit": "2025-01-06T08:37:10Z",
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17091
-          }
+            "stars": 17092
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "restify",
             "repo": "node-restify",
             "stars": 10686
-          }
+          },
+          "first_seen": "2026-08-28T20:20:58.761Z"
         }
       ],
       "title": "DevOps Tools Integration"
@@ -482,11 +512,12 @@
                 "archived": false,
                 "id": 286818960,
                 "language": "Shell",
-                "last_commit": "2026-08-27T16:05:22Z",
+                "last_commit": "2026-08-28T02:51:47Z",
                 "owner": "openshift",
                 "repo": "sandboxed-containers-operator",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T20:20:58.761Z"
             },
             {
               "node_type": "item",
@@ -501,7 +532,8 @@
                 "owner": "openshift",
                 "repo": "hive",
                 "stars": 275
-              }
+              },
+              "first_seen": "2026-08-28T20:20:58.761Z"
             },
             {
               "node_type": "item",
@@ -516,7 +548,8 @@
                 "owner": "Kubeinit",
                 "repo": "kubeinit",
                 "stars": 223
-              }
+              },
+              "first_seen": "2026-08-28T20:20:58.761Z"
             },
             {
               "node_type": "item",
@@ -527,11 +560,12 @@
                 "archived": false,
                 "id": 135516270,
                 "language": "Go",
-                "last_commit": "2026-08-27T16:11:17Z",
+                "last_commit": "2026-08-28T17:08:33Z",
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 33836
-              }
+                "stars": 33842
+              },
+              "first_seen": "2026-08-28T20:20:58.761Z"
             }
           ],
           "description": "Google Kubernetes Engine (GKE) is a managed, production-ready environment for running containerized applications.\nAzure Kubernetes Service (AKS) is serverless Kubernetes, with a integrated continuous integration and continuous delivery (CI/CD) experience, and enterprise-grade security and governance. Unite your development and operations teams on a single platform to rapidly build, deliver, and scale applications with confidence.\nAmazon EKS is a tool that runs Kubernetes control plane instances across multiple Availability Zones to ensure high availability.\nAWS Controllers for Kubernetes (ACK) is a new tool that lets you directly manage AWS services from Kubernetes. ACK makes it simple to build scalable and highly-available Kubernetes applications that utilize AWS services.\nContainer Engine for Kubernetes (OKE) is an Oracle-managed container orchestration service that can reduce the time and cost to build modern cloud native applications. Unlike most other vendors, Oracle Cloud Infrastructure provides Container Engine for Kubernetes as a free service that runs on higher-performance, lower-cost compute.\nAnthos is a modern application management platform that provides a consistent development and operations experience for cloud and on-premises environments.\nRed Hat Openshift is a fully managed Kubernetes platform that provides a foundation for on-premises, hybrid, and multicloud deployments.\nOKD is a community distribution of Kubernetes optimized for continuous application development and multi-tenant deployment. OKD adds developer and operations-centric tools on top of Kubernetes to enable rapid application development, easy deployment and scaling, and long-term lifecycle maintenance for small and large teams.\nOdo is a fast, iterative, and straightforward CLI tool for developers who write, build, and deploy applications on Kubernetes and OpenShift.\nThanos is a set of components that can be composed into a highly available metric system with unlimited storage capacity, which can be added seamlessly on top of existing Prometheus deployments.\nRook is a tool that turns distributed storage systems into self-managing, self-scaling, self-healing storage services. It automates the tasks of a storage administrator: deployment, bootstrapping, configuration, provisioning, scaling, upgrading, migration, disaster recovery, monitoring, and resource management.\nVMware Tanzu is a centralized management platform for consistently operating and securing your Kubernetes infrastructure and modern applications across multiple teams and private/public clouds.\nKubespray is a tool that combines Kubernetes and Ansible to easily install Kubernetes clusters that can be deployed on AWS, GCE, Azure, OpenStack, vSphere, Packet (bare metal), Oracle Cloud Infrastructure (Experimental), or Baremetal.\nRancher is a complete software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters, while providing DevOps teams with integrated tools for running containerized workloads.\nHelm is a Kubernetes Package Manager tool that makes it easier to install and manage Kubernetes applications.\nKnative is a Kubernetes-based platform to build, deploy, and manage modern serverless workloads. Knative takes care of the operational overhead details of networking, autoscaling (even to zero), and revision tracking.\nKubeFlow is a tool dedicated to making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable.\nEtcd is a distributed key-value store that provides a reliable way to store data that needs to be accessed by a distributed system or cluster of machines. Etcd is used as the backend for service discovery and stores cluster state and configuration for Kubernetes.\nOpenEBS is a Kubernetes-based tool to create stateful applications using Container Attached Storage.\nContainer Storage Interface (CSI) is an API that lets container orchestration platforms like Kubernetes seamlessly communicate with stored data via a plug-in.\nMicroK8s is a tool that delivers the full Kubernetes experience. In a Fully containerized deployment with compressed over-the-air updates for ultra-reliable operations. It is supported on Linux, Windows, and MacOS.\nCharmed Kubernetes is a well integrated, turn-key, conformant Kubernetes platform, optimized for your multi-cloud environments developed by Canonical.\nGrafana Kubernetes App is a toll that allows you to monitor your Kubernetes cluster's performance. It includes 4 dashboards, Cluster, Node, Pod/Container and Deployment. It allows for the automatic deployment of the required Prometheus exporters and a default scrape config to use with your in cluster Prometheus deployment.\nKubeEdge is an open source system for extending native containerized application orchestration capabilities to hosts at Edge.It is built upon kubernetes and provides fundamental infrastructure support for network, app. deployment and metadata synchronization between cloud and edge.\nLens is the most powerful IDE for people who need to deal with Kubernetes clusters on a daily basis. It has support for MacOS, Windows and Linux operating systems.\nkind is a tool for running local Kubernetes clusters using Docker container “nodes”. It was primarily designed for testing Kubernetes itself, but may be used for local development or CI.\nFlux CD is a tool that automatically ensures that the state of your Kubernetes cluster matches the configuration you've supplied in Git. It uses an operator in the cluster to trigger deployments inside Kubernetes, which means that you don't need a separate continuous delivery tool.",
@@ -559,7 +593,8 @@
                 "owner": "Azure",
                 "repo": "BatchExplorer",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-28T20:20:58.761Z"
             },
             {
               "node_type": "item",
@@ -574,7 +609,8 @@
                 "owner": "microsoft",
                 "repo": "AzureKeyVaultExplorer",
                 "stars": 215
-              }
+              },
+              "first_seen": "2026-08-28T20:20:58.761Z"
             },
             {
               "node_type": "item",
@@ -588,8 +624,9 @@
                 "last_commit": "2026-08-27T18:34:15Z",
                 "owner": "Azure",
                 "repo": "Azurite",
-                "stars": 2249
-              }
+                "stars": 2250
+              },
+              "first_seen": "2026-08-28T20:20:58.761Z"
             }
           ],
           "description": "Microsoft Azure Pricing Calculator\nAzure command-line interface (Azure CLI) is a command line that provides a set of commands used to create and manage Azure resources.\nVisual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity).\nAzure Functions is a solution for easily running small pieces of code, or \"functions,\" in the cloud. You can write just the code you need for the problem at hand, without worrying about a whole application or the infrastructure to run it.\nAzure DevOps is a set of services for teams to share code, track work, and ship software; CLIs Build, deploy, diagnose, and manage multi-platform, scalable apps and services; Azure Pipelines Continuously build, test, and deploy to any platform and cloud; Azure Lab Services Set up labs for classrooms, trials, development and testing, and other scenarios.\nAzure Data Studio is a cross-platform database tool for data professionals using on-premises and cloud data platforms on Windows, macOS, and Linux. It offers a modern editor experience with IntelliSense, code snippets, source control integration, and an integrated terminal. It's engineered with the data platform user in mind, with built-in charting of query result sets and customizable dashboards.\nAzure Active Directory (Azure AD) is Microsoft's cloud-based identity and access management service, which helps your employees sign in and access resources in: External resources, such as Microsoft 365, the Azure portal, and thousands of other SaaS applications.\nAzure Monitor is a client tool that helps you maximize the availability and performance of your applications and services. It delivers a comprehensive solution for collecting, analyzing, and acting on telemetry from your cloud and on-premises environments.\nAzure Cognitive Cognitive Services is a set of cloud-based services with REST APIs and client library SDKs available to help you build cognitive intelligence into your applications. You can add cognitive features to your applications without having artificial intelligence (AI) or data science skills. All it takes is an API call to embed the ability to see, hear, speak, search, understand, and accelerate decision-making into your apps.\nAzure Data Lake Storage is a storage repository that holds a large amount of data in its native, raw format. Data lake stores are optimized for scaling to terabytes and petabytes of data. The data typically comes from multiple heterogeneous sources, and may be structured, semi-structured, or unstructured.\nAzure Service Fabric is a distributed systems platform that makes it easy to package, deploy, and manage scalable and reliable microservices and containers. Service Fabric also addresses the significant challenges in developing and managing cloud native applications. It powers core Azure infrastructure as well as other Microsoft services such as Skype for Business, Intune, Azure Event Hubs, Azure Data Factory, Azure Cosmos DB, Azure SQL Database, Dynamics 365, and Cortana.\nMicrosoft Azure Storage Emulator is a tool that emulates the Azure Blob, Queue, and Table services for local development purposes. You can test your application against the storage services locally without creating an Azure subscription or incurring any costs.\nAzure Cosmos DB Emulator is a tool that provides a local environment that emulates the Azure Cosmos DB service for development purposes. Using the Azure Cosmos DB Emulator, you can develop and test your application locally, without creating an Azure subscription or incurring any costs.\nMicrosoft Azure Storage Explorer is a standalone app that makes it easy to work with Azure Storage data on Windows, macOS, and Linux.\nAzure Cloud Shell is an interactive, authenticated, browser-accessible shell for managing Azure resources. It provides the flexibility of choosing the shell experience that best suits the way you work, either Bash or PowerShell.\nAzure Lab Services is an easy to set up and provide on-demand access to preconfigured virtual machines (VMs) to support your scenarios. Teach a class, train professionals, run a hackathon or a hands-on lab, and more.\nAzure Pipelines is a cloud-hosted pipelines for Linux, macOS, and Windows. Where you can build web, desktop and mobile applications. Deploy to any cloud or on‑premises.\nAzure Bots Service is a service that develops intelligent, enterprise-grade bots that help you enrich the customer experience while maintaining control of your data. Build any type of bot—from a Q&A bot to your own branded virtual assistant—to quickly connect your users to the answers they need.\nAzure PlayFab is a service that enables developers to use the intelligent cloud to build and operate games, analyze gaming data and improve overall gaming experiences. Along with the Microsoft Game Stack that includes platforms, tools, and services like Visual Studio, DirectX, Havok, and Xbox.\nAzure Databricks is a tool that makes it fast, easy, and collaborative Apache Spark-based analytics platform. Azure Databricks, set up your Apache Spark™ environment in minutes, autoscale, and collaborate on shared projects in an interactive workspace. Azure Databricks supports Python, Scala, R, Java, and SQL, as well as data science frameworks and libraries including TensorFlow, PyTorch, and scikit-learn.\nAzure Machine Learning is an enterprise-grade machine learning service to build and deploy models faster. It empowers data scientists and developers with a wide range of productive experiences to build, train, and deploy machine learning models and foster team collaboration. Accelerate time to market with industry-leading MLOps—DevOps for machine learning. Innovate on a secure, trusted platform, designed for responsible machine learning.\nAzure Open Datasets is a tool that curates open data made easily accessible on Azure.\nAzure Percept is a comprehensive, easy-to-use platform with added security for creating edge AI solutions.\nAzure Data Share is a simple and safe service for sharing big data. It provides full visibility into your data sharing relationships with a user-friendly interface. Share data in just a few clicks, or build your own application using the REST API.\nAzure Data Factory is a fully managed, serverless data integration solution for ingesting, preparing, and transforming all your data at scale.\nAzure Synapse Analytics is a limitless analytics service that brings together data integration, enterprise data warehousing, and big data analytics. It gives you the freedom to query data on your terms, using either serverless or dedicated resources at scale.\nAzure HDInsight is an enterprise-ready, managed cluster service for open-source analytics.It let's you run popular open-source frameworks including Apache Hadoop, Spark, Hive, Kafka, and more.\nAzure Blockchain Service is a service that simplifies the formation, management, and governance of consortium blockchain networks so you can focus on business logic and app development.\nAzure Logic Apps is a leading integration platform as a service (iPaaS) enables key enterprise scenarios for developers. Built on a containerized runtime that increases scale and portability while automating business-critical workflows anywhere.\nAzure Quantum is an innovative quantum computing and optimization solutions converge in a single marketplace quantum service.\nAzure VMware Solution is a service that seamlessly moves VMware-based workloads from your datacenter to Azure and integrate your VMware environment with Azure. Keep managing your existing environments with the same VMware tools you already know while you modernize your applications with Azure native services.\nAzure Spring Cloud is a fully managed Spring Cloud service, jointly built and operated with VMware.\nAzure CycleCloud is a serviece that creates, manages, operates, and optimizes HPC and big compute clusters of any scale.\nAzure API Apps is a service that quickly builds and consumes APIs in the cloud using the language of your choice.\nAzure Web Apps is an easy way to create and deploy mission-critical web applications that scale with your business.\nWindows Virtual Desktop is a service that enables a secure, remote desktop experience from anywhere.\nVMware Horizon Cloud on Microsoft Azure is a desktop virtualization service available in Azure Marketplace. Simplify your delivery of on-premises and cloud virtual desktops and applications by connecting your instance of Azure to VMware.\nCitrix Virtual Apps and Desktops for Azure is a desktop and app virtualization service available through Azure Marketplace or agreements with Citrix. Use familiar tools to manage on-premises Citrix deployments alongside Windows Virtual Desktop on Azure, supporting cloud modernization while maximizing your existing investment.\nAzure Container Registry is a registry of Docker and Open Container Initiative (OCI) images, with support for all OCI artifacts.\nAzure Web App for Containers is an easily deploy and run containerized applications on Windows and Linux.\nAzure SQL Edge is a service that makes a small-footprint, edge-optimized SQL database engine with built-in AI. This productivity tool for edge computing combines new capabilities such as data streaming and time series with in-database machine learning and graph features. Develop your application once and deploy anywhere across the edge, your datacenter, and Azure.\nAzure Arc is a service that offers simplified management, faster app development, and consistent Azure services. Standardize visibility, operations, and compliance across a wide range of resources and locations by extending the Azure control plane. Build cloud-native apps anywhere, at scale.\nAzure Artifacts is a services that provides fully integrated package management to your continuous integration/continuous delivery (CI/CD) pipelines with a single click. Create and share Maven, npm, NuGet, and Python package feeds from public and private sources with teams of any size.\nAzure Boards is a service that helps you plan, track, and discuss work across your teams. It let's you track work with Kanban boards, backlogs, team dashboards, and custom reporting.\nAzure ExpressRoute is a tool that helps you experience a faster, private connection to Azure.\nAzure Sentinel is your birds-eye view across the enterprise. It uses the cloud and large-scale intelligence from decades of Microsoft security experience to work. Making your threat detection and response smarter and faster with artificial intelligence (AI).\nAzure Stack is a service that builds and runs hybrid apps across datacenters, edge locations, remote offices, and the cloud.\nAzure Stack HCI is a new hyperconverged infrastructure (HCI) operating system delivered as an Azure service that provides the latest security, performance, and feature updates. Deploy and run Windows and Linux virtual machines (VMs) in your datacenter or at the edge using your existing tools, processes, and skill sets.\nAzure Sphere is a comprehensive IoT security solution including hardware (crossover microcontroller), OS, and cloud components for IoT device security to actively protect your devices, your business, and your customers.\nAzure IoT Hub is a service that provides a cloud-hosted solution back end to connect virtually any device. Extend your solution from the cloud to the edge with per-device authentication, built-in device management, and scaled provisioning.\nAzure IoT Edge is a fully managed service built on Azure IoT Hub. Deploy your cloud workloads—artificial intelligence, Azure and third-party services, or your own business logic to run on Internet of Things (IoT) edge devices via standard containers.\nAzure Lighthouse is a secure managed services and access control for partners and customers.\nAzure Backup is a cost-effective, secure, one-click backup solution that’s scalable based on your backup storage needs. The centralized management interface makes it easy to define backup policies and protect a wide range of enterprise workloads, including Azure Virtual Machines, SQL and SAP databases, and Azure file shares.\nAzure Resource Manager is a tool that enables you to repeatedly deploy your app and have confidence your resources are deployed in a consistent state. You define the infrastructure and dependencies for your app in a single declarative template. This template is flexible enough to use for all of your environments such as test, staging or production.\nAzure Automanage is a tool that implifies IT management with optimized, automated operations across the entire lifecycle of dev/test and production virtual machines (VMs).\nAzure Network Watcher is a tool that monitors, diagnoses, and gains insights to your network performance and health.\nAzure Resource Mover is a that that Simplifies how you move multiple resources between Global Azure regions.\nAzure Bastion is a fully managed PaaS service that provides secure and seamless RDP and SSH access to your virtual machines directly through the Azure Portal. Azure Bastion is provisioned directly in your Virtual Network (VNet) and supports all VMs in your Virtual Network (VNet) using SSL without any exposure through public IP addresses.\nAzure Load balancing is a service that instantly scale your applications with Azure load balancing services for high availability and high performance. Get started with a quick needs assessment and load balancing recommendation—using the service selection tool.\nAzure Orbital is a Ground Station As-a-Service that provides communication and control of your satellite. Orbital enables easy and integrated data processing and scale for your operations directly from Azure. Leverage familiar Azure services to process and store your data at scale.\nAzure Route Server is a tool that enables network appliances to exchange route information with Azure virtual networks dynamically. Configure your network appliances and Azure ExpressRoute and VPN gateways to automatically take the latest route information from Azure Route Server instead of manually talking to each network.\nAzure VPN Gateway is a service that connects your on-premises networks to Azure through Site-to-Site VPNs in a similar way that you set up and connect to a remote branch office. The connectivity is secure and uses the industry-standard protocols Internet Protocol Security (IPsec) and Internet Key Exchange (IKE).\nMicrosoft Azure Attestation is a unified solution for remotely verifying the trustworthiness of a platform and integrity of the binaries running inside it. Azure Attestation receives evidence from the platform, validates it with security standards, evaluates it against configurable policies, and produces an attestation token for claims-based applications. The service supports attestation of trusted platform modules (TPMs) and trusted execution environments (TEEs) like Intel® Software Guard Extensions (SGX) and virtualization-based security (VBS) enclaves.\nAzure Data Box is a device that easily moves data to Azure when busy networks aren’t an option. Move large amounts of data to Azure when you're limited by time, network availability, or costs, using common copy tools such as Robocopy. All data is AES-encrypted, and the devices are wiped clean after upload, in accordance with NIST Special Publication 800-88 revision 1 standards.\nAzure Blob Storage is a massively scalable and secure object storage for cloud-native workloads, archives, data lakes, high-performance computing, and machine learning.\nPowerShell/PowerShell Core is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language and a framework for processing cmdlets.\nHyper-V creates virtual machines on Windows 10. Hyper-V can be enabled in many ways including using the Windows 10 control panel, PowerShell or using the Deployment Imaging Servicing and Management tool (DISM).\nGitHub Codespaces is an integrated development environment(IDE) on GitHub. That allows developers to develop entirely in the cloud using Visual Studio and Visual Studio Code.\nGitHub Actions will automate, customize, and execute your software development workflows right in your repository with GitHub Actions. You can discover, create, and share actions to perform any job you'd like, including CI/CD, and combine actions in a completely customized workflow.GitHub Actions for Azure you can create workflows that you can set up in your repository to build, test, package, release and deploy to Azure.",
@@ -613,11 +650,12 @@
                 "archived": false,
                 "id": 92205085,
                 "language": "Python",
-                "last_commit": "2026-08-27T09:46:35Z",
+                "last_commit": "2026-08-28T09:50:25Z",
                 "owner": "aws",
                 "repo": "aws-sam-cli",
                 "stars": 6732
-              }
+              },
+              "first_seen": "2026-08-28T20:20:58.761Z"
             }
           ],
           "description": "AWS Pricing Calculator\nAWS Marketplace is a digital catalog with thousands of software listings from independent software vendors that make it easy to find, test, buy, and deploy software that runs on AWS.\nAWS Cloud9 is a cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser. It includes a code editor, debugger, and terminal. Cloud9 comes prepackaged with essential tools for popular programming languages, including JavaScript, Python, PHP, and more, so you don’t need to install files or configure your development machine to start new projects.\nAWS Command Line Interface (CLI) is a unified tool to manage your AWS services through the command line interface.\nAWS Amplify Command Line Interface (CLI) is a unified toolchain to create, integrate, and manage the AWS cloud services for your app.\nAWS Copilot command line interface (CLI) is a command line tool that simplifies building, releasing, and operating production-ready containerized applications on Amazon ECS from a local development environment. The AWS Copilot CLI aligns with developer workflows that support modern application best practices: from using infrastructure as code to creating a CI/CD pipeline provisioned on behalf of a user.\nAmazon Elastic Container Service (Amazon ECS) command line interface (CLI) is a command line tool that provides high-level commands to simplify creating, updating, and monitoring clusters and tasks from a local development environment. The Amazon ECS CLI supports Docker Compose files, a popular open-source specification for defining and running multi-container applications.\nAWS ECS is a highly scalable, high-performance container orchestration service that supports Docker containers and allows you to easily run and scale containerized applications on AWS. Amazon ECS eliminates the need for you to install and operate your own container orchestration software, manage and scale a cluster of virtual machines, or schedule containers on those virtual machines.\nAmazon Simple Storage Service (Amazon S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance. This means customers of all sizes and industries can use it to store and protect any amount of data for a range of use cases, such as data lakes, websites, mobile applications, backup and restore, archive, enterprise applications, IoT devices, and big data analytics.\nAWS Cloud Development Kit (AWS CDK) is an open-source software development framework to define cloud infrastructure in code and provision it through AWS CloudFormation. It offers a high-level object-oriented abstraction to define AWS resources imperatively using the power of modern programming languages.\nAWS Lambda is an event-driven, serverless computing platform provided by Amazon as a part of the Amazon Web Services. It is a computing service that runs code in response to events and automatically manages the computing resources required by that code.\nAWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web applications and services developed with Java,.NET, PHP, Node.js, Python, Ruby, Go, and Docker on familiar servers such as Apache, Nginx, Passenger, and IIS.\nAWS IoT Greengrass is an Internet of Things (IoT) open source edge runtime and cloud service that helps you build, deploy, and manage device software. It is used for IoT applications on millions of devices in homes, factories, vehicles, and businesses.\nAWS CodeArtifact is a fully managed artifact repository service that makes it easy for organizations of any size to securely store, publish, and share software packages used in their software development process. CodeArtifact can be configured to automatically fetch software packages and dependencies from public artifact repositories so developers have access to the latest versions.\nAWS CodeCommit is a fully-managed source control service that hosts secure Git-based repositories. It makes it easy for teams to collaborate on code in a secure and highly scalable ecosystem. CodeCommit eliminates the need to operate your own source control system or worry about scaling its infrastructure.\nAWS CodePipeline is a fully managed continuous delivery service that helps you automate your release pipelines for fast and reliable application and infrastructure updates. CodePipeline automates the build, test, and deploy phases of your release process every time there is a code change, based on the release model you define. This enables you to rapidly and reliably deliver features and updates. You can easily integrate AWS CodePipeline with third-party services such as GitHub or with your own custom plugin.\nAWS CodeStar is a unified user interface, enabling you to easily manage your software development activities in one place. With AWS CodeStar, you can set up your entire continuous delivery toolchain in minutes, allowing you to start releasing code faster.\nAWS X-Ray is a tool that traces user requests as they travel through your entire application. It aggregates the data generated by the individual services and resources that make up your application, providing you an end-to-end view of how your application is performing. It helps developers analyze and debug production, distributed applications, such as those built using a microservices architecture.\nAWS CodeDeploy is a fully managed deployment service that automates software deployments to a variety of compute services such as Amazon EC2, AWS Fargate, AWS Lambda, and your on-premises servers. AWS CodeDeploy makes it easier for you to rapidly release new features, helps you avoid downtime during application deployment, and handles the complexity of updating your applications.\nAWS CodeBuild is a fully managed continuous integration service that compiles source code, runs tests, and produces software packages that are ready to deploy. With CodeBuild, you don't need to provision, manage, and scale your own build servers.\nRed Hat OpenShift Service on AWS (ROSA) is a fully-managed and jointly supported Red Hat OpenShift offering that combines the power of Red Hat OpenShift, the industry's most comprehensive enterprise Kubernetes platform, and the AWS public cloud.\nAmazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.\nAWS Storage Gateway is a hybrid cloud storage service that gives you on-premises access to virtually unlimited cloud storage.\nAWS Transit Gateway is a tool that connects VPCs and on-premises networks through a central hub. This simplifies your network and puts an end to complex peering relationships. It acts as a cloud router - each new connection is only made once.\nGateway Load Balancer (GWLB) is a tool that makes it easy to deploy, scale, and manage your third-party virtual appliances. It gives you one gateway for distributing traffic across multiple virtual appliances, while scaling them up, or down, based on demand.\nAWS Chalice is a Python Serverless Microframework for AWS and allows you to quickly create and deploy applications that use Amazon API Gateway and AWS Lambda.\nAWS ParallelCluster is an AWS supported Open Source cluster management tool to deploy and manage HPC clusters in the AWS cloud.\nAWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on Amazon ECS and AWS Fargate.\nAWS Fargate is a serverless compute engine for containers that works with both Amazon Elastic Container Service (ECS) and Amazon Elastic Kubernetes Service (EKS).\nAmazon Chime is a communications service that lets you meet, chat, and place business calls inside and outside your organization, all using a single application.\nAmazon Virtual Private Cloud (Amazon VPC) is a service that lets you launch AWS resources in a logically isolated virtual network that you define. You have complete control over your virtual networking environment, including selection of your own IP address range, creation of subnets, and configuration of route tables and network gateways.\nAWS Lightsail is an easy-to-use virtual private server (VPS) that offers you everything needed to build an application or website, plus a cost-effective, monthly plan.\nAmazon Relational Database Service (Amazon RDS) is a tool that makes it easy to set up, operate, and scale a relational database in the cloud. It provides cost-efficient and resizable capacity while automating time-consuming administration tasks such as hardware provisioning, database setup, patching and backups.\nAmazon Aurora is a MySQL and PostgreSQL-compatible relational database built for the cloud, that combines the performance and availability of traditional enterprise databases with the simplicity and cost-effectiveness of open source databases.\nAmazon Athena is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL. Athena is serverless, so there is no infrastructure to manage, and you pay only for the queries that you run.\nAmazon CloudSearch is a managed service in the AWS Cloud that makes it simple and cost-effective to set up, manage, and scale a search solution for your website or application.\nAmazon Kinesis is a tool that makes it easy to collect, process, and analyze real-time, streaming data so you can get timely insights and react quickly to new information. Amazon Kinesis offers key capabilities to cost-effectively process streaming data at any scale, along with the flexibility to choose the tools that best suit the requirements of your application. With Amazon Kinesis, you can ingest real-time data such as video, audio, application logs, website clickstreams, and IoT telemetry data for machine learning, analytics, and other applications.\nAmazon EMR is the industry-leading cloud big data platform for processing vast amounts of data using open source tools such as Apache Spark, Apache Hive, Apache HBase, Apache Flink,Apache Hudi, and Presto.\nAWS RedShift is a data warehouse tool that makes it as easy to gain new insights from all your data. With Redshift, you can easily query and combine exabytes of structured and semi-structured data across your data warehouse, operational database, and data lake using standard SQL. It lets you easily save the results of your queries back to your S3 data lake using open formats, like Apache Parquet, so that you can do additional analytics from other analytics services like Amazon EMR, Amazon Athena, and Amazon SageMaker.\nAWS Data Pipeline is a web service that helps you reliably process and move data between different AWS compute and storage services, as well as on-premises data sources, at specified intervals. AWS Data Pipeline, let's you regularly access your data where it’s stored, transform and process it at scale, and efficiently transfer the results to AWS services such as Amazon S3, Amazon RDS, Amazon DynamoDB, and Amazon EMR.\nAWS Glue is a serverless data integration service that makes it easy to discover, prepare, and combine data for analytics, machine learning, and application development.\nAWS Lake Formation is a service that makes it easy to set up a secure data lake in days. A data lake is a centralized, curated, and secured repository that stores all your data, both in its original form and prepared for analysis.\nAmazon Managed Blockchain is a fully managed service that makes it easy to join public networks or create and manage scalable private networks using the popular open-source frameworks Hyperledger Fabric and Ethereum.\nAWS Wavelength is an AWS Infrastructure offering optimized for mobile edge computing applications. Wavelength Zones are AWS infrastructure deployments that embed AWS compute and storage services within communications service providers’ (CSP) datacenters at the edge of the 5G network, so application traffic from 5G devices can reach application servers running in Wavelength Zones without leaving the telecommunications network.\nAWS Outposts is a fully managed service that offers the same AWS infrastructure, AWS services, APIs, and tools to virtually any datacenter, co-location space, or on-premises facility for a truly consistent hybrid experience. AWS Outposts is ideal for workloads that require low latency access to on-premises systems, local data processing, data residency, and migration of applications with local system interdependencies.\nAWS Batch is atool that enables developers, scientists, and engineers to easily and efficiently run hundreds of thousands of batch computing jobs on AWS. AWS Batch dynamically provisions the optimal quantity and type of compute resources (e.g., CPU or memory optimized instances) based on the volume and specific resource requirements of the batch jobs submitted. AWS Batch plans, schedules, and executes your batch computing workloads across the full range of AWS compute services and features, such as AWS Fargate, Amazon EC2 and Spot Instances.\nAmazon Forecast is a fully managed service that uses machine learning to deliver highly accurate forecasts.\nAWS Snow Family is a highly-secure, portable devices to collect and process data at the edge, and migrate data into and out of AWS.\nAmazon Neptune is a fast, reliable, fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets. The core of Amazon Neptune is a purpose-built, high-performance graph database engine optimized for storing billions of relationships and querying the graph with milliseconds latency.\nAmazon Timestream is a fast, scalable, and serverless time series database service for IoT and operational applications that makes it easy to store and analyze trillions of events per day up to 1,000 times faster and at as little as 1/10th the cost of relational databases.\nAWS IoT is a service that is built on a secure and proven cloud infrastructure, and scales to billions of devices and trillions of messages. It easily integrates with other AWS services, so you can build complete solutions.\nAWS IoT Core lets you connect IoT devices to the AWS cloud without the need to provision or manage servers. AWS IoT Core can support billions of devices and trillions of messages, and can process and route those messages to AWS endpoints and to other devices reliably and securely.",
@@ -645,7 +683,8 @@
                 "owner": "mikeroyal",
                 "repo": "Bash-Powershell-Guide",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T20:20:58.761Z"
             }
           ],
           "description": null,
@@ -657,7 +696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:14:40.899Z",
+    "last_updated": "2026-08-28T20:20:58.761Z",
     "original_repository_info": {
       "archived": false,
       "id": 301529364,
