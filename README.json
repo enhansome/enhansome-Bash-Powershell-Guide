@@ -408,10 +408,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-08-28T19:41:14Z",
-            "open_issues": 1764,
+            "open_issues": 1765,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104723,
+            "stars": 104744,
             "topics": [
               "cmd",
               "command-line",
@@ -643,10 +643,10 @@
             "language": "Rust",
             "license": null,
             "last_commit": "2026-08-29T10:12:24Z",
-            "open_issues": 220,
+            "open_issues": 221,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6157,
+            "stars": 6161,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -672,7 +672,7 @@
             "open_issues": 73,
             "owner": "k3s-io",
             "repo": "k3s",
-            "stars": 33843,
+            "stars": 33850,
             "topics": [
               "k8s",
               "kubernetes"
@@ -838,7 +838,7 @@
             "open_issues": 34,
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17093,
+            "stars": 17096,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:58.761Z"
@@ -859,7 +859,7 @@
             "open_issues": 130,
             "owner": "restify",
             "repo": "node-restify",
-            "stars": 10686,
+            "stars": 10687,
             "topics": [
               "rest-api",
               "restify",
@@ -963,7 +963,7 @@
                 "open_issues": 73,
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 33843,
+                "stars": 33850,
                 "topics": [
                   "k8s",
                   "kubernetes"
@@ -1050,7 +1050,7 @@
                 "open_issues": 375,
                 "owner": "Azure",
                 "repo": "Azurite",
-                "stars": 2251,
+                "stars": 2250,
                 "topics": [
                   "azure-storage",
                   "azurite",
@@ -1164,7 +1164,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:59:09.307Z",
+    "last_updated": "2026-08-30T13:58:55.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bash/PowerShell Guide",
