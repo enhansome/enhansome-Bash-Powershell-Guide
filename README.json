@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
-            "stars": 64,
+            "stars": 63,
             "topics": [
               "awesome",
               "awesome-bash",
@@ -54,7 +54,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
-            "stars": 64,
+            "stars": 63,
             "topics": [
               "awesome",
               "awesome-bash",
@@ -89,7 +89,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
-            "stars": 64,
+            "stars": 63,
             "topics": [
               "awesome",
               "awesome-bash",
@@ -124,7 +124,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
-            "stars": 64,
+            "stars": 63,
             "topics": [
               "awesome",
               "awesome-bash",
@@ -159,7 +159,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
-            "stars": 64,
+            "stars": 63,
             "topics": [
               "awesome",
               "awesome-bash",
@@ -194,7 +194,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
-            "stars": 64,
+            "stars": 63,
             "topics": [
               "awesome",
               "awesome-bash",
@@ -229,7 +229,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
-            "stars": 64,
+            "stars": 63,
             "topics": [
               "awesome",
               "awesome-bash",
@@ -264,7 +264,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
-            "stars": 64,
+            "stars": 63,
             "topics": [
               "awesome",
               "awesome-bash",
@@ -299,7 +299,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
-            "stars": 64,
+            "stars": 63,
             "topics": [
               "awesome",
               "awesome-bash",
@@ -334,7 +334,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Bash-Powershell-Guide",
-            "stars": 64,
+            "stars": 63,
             "topics": [
               "awesome",
               "awesome-bash",
@@ -375,7 +375,7 @@
             "open_issues": 216,
             "owner": "microsoft",
             "repo": "vscode-dev-containers",
-            "stars": 4738,
+            "stars": 4737,
             "topics": [
               "codespaces",
               "containers",
@@ -408,10 +408,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-09-18T20:26:33Z",
-            "open_issues": 1762,
+            "open_issues": 1763,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104935,
+            "stars": 104946,
             "topics": [
               "cmd",
               "command-line",
@@ -643,10 +643,10 @@
             "language": "Rust",
             "license": null,
             "last_commit": "2026-09-19T01:16:15Z",
-            "open_issues": 227,
+            "open_issues": 228,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6243,
+            "stars": 6244,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -668,11 +668,11 @@
             "id": 135516270,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T18:54:49Z",
+            "last_commit": "2026-09-19T18:23:14Z",
             "open_issues": 113,
             "owner": "k3s-io",
             "repo": "k3s",
-            "stars": 33995,
+            "stars": 33999,
             "topics": [
               "k8s",
               "kubernetes"
@@ -738,7 +738,7 @@
             "open_issues": 122,
             "owner": "Netflix",
             "repo": "dynomite",
-            "stars": 4214,
+            "stars": 4215,
             "topics": [
               "c",
               "cache",
@@ -767,7 +767,7 @@
             "open_issues": 122,
             "owner": "Netflix",
             "repo": "dynomite",
-            "stars": 4214,
+            "stars": 4215,
             "topics": [
               "c",
               "cache",
@@ -959,11 +959,11 @@
                 "id": 135516270,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T18:54:49Z",
+                "last_commit": "2026-09-19T18:23:14Z",
                 "open_issues": 113,
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 33995,
+                "stars": 33999,
                 "topics": [
                   "k8s",
                   "kubernetes"
@@ -1089,7 +1089,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-18T09:46:56Z",
-                "open_issues": 537,
+                "open_issues": 539,
                 "owner": "aws",
                 "repo": "aws-sam-cli",
                 "stars": 6733,
@@ -1135,7 +1135,7 @@
                 "open_issues": 0,
                 "owner": "mikeroyal",
                 "repo": "Bash-Powershell-Guide",
-                "stars": 64,
+                "stars": 63,
                 "topics": [
                   "awesome",
                   "awesome-bash",
@@ -1164,7 +1164,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T12:40:24.308Z",
+    "last_updated": "2026-09-20T13:12:10.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bash/PowerShell Guide",
@@ -1176,7 +1176,7 @@
       "open_issues": 0,
       "owner": "mikeroyal",
       "repo": "Bash-Powershell-Guide",
-      "stars": 64,
+      "stars": 63,
       "topics": [
         "awesome",
         "awesome-bash",
