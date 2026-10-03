@@ -1,362 +1,6 @@
 {
   "items": [
     {
-      "description": "Introduction to Bash Shell Scripting by Coursera\nBash: Shell Script Basics by Pluralsight\nBash/Shell by Codecademy\nWindows Remote Management in Ansible using PowerShell\nGetting Started with PowerShell\nPowerShell in Azure Cloud Shell\nAzure Functions using PowerShell\nAzure Automation runbooks\nUsing Visual Studio Code for PowerShell Development\nIntegrated Terminal in Visual Studio Code\nAWS Tools for Windows PowerShell\nPowerShell Best Practices and Style Guide\nAWS Command Line Interface and aws-shell Sample for AWS Cloud9\nConfiguring Cloud Shell on Google Cloud\nGoogle's Shell Style Guide",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Bash/PowerShell Learning Resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Bash/PowerShell Guide",
-            "homepage": null,
-            "id": 301529364,
-            "language": "PowerShell",
-            "license": null,
-            "last_commit": "2024-01-04T22:19:22Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "Bash-Powershell-Guide",
-            "stars": 63,
-            "topics": [
-              "awesome",
-              "awesome-bash",
-              "awesome-list",
-              "awesome-powershell",
-              "awesome-readme",
-              "awesome-resources",
-              "bash",
-              "bash-scripting",
-              "powershell",
-              "powershell-core",
-              "powershell-module",
-              "powershell-modules",
-              "powershell-script"
-            ]
-          },
-          "first_seen": "2026-08-28T20:20:58.761Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bash/PowerShell Tools, Libraries, and Frameworks",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Bash/PowerShell Guide",
-            "homepage": null,
-            "id": 301529364,
-            "language": "PowerShell",
-            "license": null,
-            "last_commit": "2024-01-04T22:19:22Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "Bash-Powershell-Guide",
-            "stars": 63,
-            "topics": [
-              "awesome",
-              "awesome-bash",
-              "awesome-list",
-              "awesome-powershell",
-              "awesome-readme",
-              "awesome-resources",
-              "bash",
-              "bash-scripting",
-              "powershell",
-              "powershell-core",
-              "powershell-module",
-              "powershell-modules",
-              "powershell-script"
-            ]
-          },
-          "first_seen": "2026-08-28T20:20:58.761Z"
-        },
-        {
-          "node_type": "item",
-          "title": "DevOps Tools Integration",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Bash/PowerShell Guide",
-            "homepage": null,
-            "id": 301529364,
-            "language": "PowerShell",
-            "license": null,
-            "last_commit": "2024-01-04T22:19:22Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "Bash-Powershell-Guide",
-            "stars": 63,
-            "topics": [
-              "awesome",
-              "awesome-bash",
-              "awesome-list",
-              "awesome-powershell",
-              "awesome-readme",
-              "awesome-resources",
-              "bash",
-              "bash-scripting",
-              "powershell",
-              "powershell-core",
-              "powershell-module",
-              "powershell-modules",
-              "powershell-script"
-            ]
-          },
-          "first_seen": "2026-08-28T20:20:58.761Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Kubernetes",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Bash/PowerShell Guide",
-            "homepage": null,
-            "id": 301529364,
-            "language": "PowerShell",
-            "license": null,
-            "last_commit": "2024-01-04T22:19:22Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "Bash-Powershell-Guide",
-            "stars": 63,
-            "topics": [
-              "awesome",
-              "awesome-bash",
-              "awesome-list",
-              "awesome-powershell",
-              "awesome-readme",
-              "awesome-resources",
-              "bash",
-              "bash-scripting",
-              "powershell",
-              "powershell-core",
-              "powershell-module",
-              "powershell-modules",
-              "powershell-script"
-            ]
-          },
-          "first_seen": "2026-08-28T20:20:58.761Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Docker",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Bash/PowerShell Guide",
-            "homepage": null,
-            "id": 301529364,
-            "language": "PowerShell",
-            "license": null,
-            "last_commit": "2024-01-04T22:19:22Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "Bash-Powershell-Guide",
-            "stars": 63,
-            "topics": [
-              "awesome",
-              "awesome-bash",
-              "awesome-list",
-              "awesome-powershell",
-              "awesome-readme",
-              "awesome-resources",
-              "bash",
-              "bash-scripting",
-              "powershell",
-              "powershell-core",
-              "powershell-module",
-              "powershell-modules",
-              "powershell-script"
-            ]
-          },
-          "first_seen": "2026-08-28T20:20:58.761Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Azure Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Bash/PowerShell Guide",
-            "homepage": null,
-            "id": 301529364,
-            "language": "PowerShell",
-            "license": null,
-            "last_commit": "2024-01-04T22:19:22Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "Bash-Powershell-Guide",
-            "stars": 63,
-            "topics": [
-              "awesome",
-              "awesome-bash",
-              "awesome-list",
-              "awesome-powershell",
-              "awesome-readme",
-              "awesome-resources",
-              "bash",
-              "bash-scripting",
-              "powershell",
-              "powershell-core",
-              "powershell-module",
-              "powershell-modules",
-              "powershell-script"
-            ]
-          },
-          "first_seen": "2026-08-28T20:20:58.761Z"
-        },
-        {
-          "node_type": "item",
-          "title": "AWS Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Bash/PowerShell Guide",
-            "homepage": null,
-            "id": 301529364,
-            "language": "PowerShell",
-            "license": null,
-            "last_commit": "2024-01-04T22:19:22Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "Bash-Powershell-Guide",
-            "stars": 63,
-            "topics": [
-              "awesome",
-              "awesome-bash",
-              "awesome-list",
-              "awesome-powershell",
-              "awesome-readme",
-              "awesome-resources",
-              "bash",
-              "bash-scripting",
-              "powershell",
-              "powershell-core",
-              "powershell-module",
-              "powershell-modules",
-              "powershell-script"
-            ]
-          },
-          "first_seen": "2026-08-28T20:20:58.761Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Google Cloud Platform Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Bash/PowerShell Guide",
-            "homepage": null,
-            "id": 301529364,
-            "language": "PowerShell",
-            "license": null,
-            "last_commit": "2024-01-04T22:19:22Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "Bash-Powershell-Guide",
-            "stars": 63,
-            "topics": [
-              "awesome",
-              "awesome-bash",
-              "awesome-list",
-              "awesome-powershell",
-              "awesome-readme",
-              "awesome-resources",
-              "bash",
-              "bash-scripting",
-              "powershell",
-              "powershell-core",
-              "powershell-module",
-              "powershell-modules",
-              "powershell-script"
-            ]
-          },
-          "first_seen": "2026-08-28T20:20:58.761Z"
-        },
-        {
-          "node_type": "item",
-          "title": "VMware Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Bash/PowerShell Guide",
-            "homepage": null,
-            "id": 301529364,
-            "language": "PowerShell",
-            "license": null,
-            "last_commit": "2024-01-04T22:19:22Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "Bash-Powershell-Guide",
-            "stars": 63,
-            "topics": [
-              "awesome",
-              "awesome-bash",
-              "awesome-list",
-              "awesome-powershell",
-              "awesome-readme",
-              "awesome-resources",
-              "bash",
-              "bash-scripting",
-              "powershell",
-              "powershell-core",
-              "powershell-module",
-              "powershell-modules",
-              "powershell-script"
-            ]
-          },
-          "first_seen": "2026-08-28T20:20:58.761Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Oracle Cloud Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Bash/PowerShell Guide",
-            "homepage": null,
-            "id": 301529364,
-            "language": "PowerShell",
-            "license": null,
-            "last_commit": "2024-01-04T22:19:22Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "Bash-Powershell-Guide",
-            "stars": 63,
-            "topics": [
-              "awesome",
-              "awesome-bash",
-              "awesome-list",
-              "awesome-powershell",
-              "awesome-readme",
-              "awesome-resources",
-              "bash",
-              "bash-scripting",
-              "powershell",
-              "powershell-core",
-              "powershell-module",
-              "powershell-modules",
-              "powershell-script"
-            ]
-          },
-          "first_seen": "2026-08-28T20:20:58.761Z"
-        }
-      ],
-      "title": "Overview"
-    },
-    {
       "description": "Bash is the GNU Project's shell(Bourne Again SHell), which is an sh-compatible shell that integrates together useful features from the Korn shell (ksh) and the C shell (csh).\nZsh is a shell designed for interactive use, although it is also a powerful scripting language. It comes with features of Bash, ksh, and tcsh.\nOh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few other helpful things.\nPowerShell Core is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (JSON, CSV, XML, etc.), REST APIs, and object models. It also includes a command-line shell, an associated scripting language and a framework for processing cmdlets.\nAzure PowerShell is a set of cmdlets for managing Microsoft Azure resources directly from the PowerShell command line.\nWindows Subsystem for Linux (WSL) is a compatibility layer developed by Microsoft for running Linux binary executables in a Executable/Linkable Format natively on Windows 10 and Windows Server.\nAzure CLI is a set of commands used to create and manage Azure resources. The Azure CLI is available across Azure services and is designed to get you working quickly with Azure, with an emphasis on automation.\nVisual Studio Code Remote - WSL extension lets you use the Windows Subsystem for Linux (WSL) as your full-time development environment right from VS Code. You can develop in a Linux-based environment, use Linux-specific toolchains and utilities, and run and debug your Linux-based applications all from the comfort of Windows. The extension runs commands and other extensions directly in WSL so you can edit files located in WSL or the mounted Windows filesystem (for example /mnt/c) without worrying about pathing issues, binary compatibility, or other cross-OS challenges.\nHyper-V is a hypevisor developed by Microsoft that delivers enterprise-class virtualization for your datacenter and hybrid cloud.\nAWS Shell is a command-line shell program that provides convenience and productivity features to help both new and advanced users of the AWS Command Line Interface.\nGoogle Cloud Shell is a free admin machine with browser-based command-line access for managing your infrastructure and applications on Google Cloud Platform.\nVS Code Bash Debug is a bash debugger GUI frontend based on awesome bashdb scripts (bashdb now included in package).\nVS Code Bash IDE is a Visual Studio Code extension utilizing the bash language server, that is based on Tree Sitter and its grammar for Bash and supports explainshell integration.",
       "items": [
         {
@@ -375,7 +19,7 @@
             "open_issues": 216,
             "owner": "microsoft",
             "repo": "vscode-dev-containers",
-            "stars": 4738,
+            "stars": 4737,
             "topics": [
               "codespaces",
               "containers",
@@ -408,10 +52,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-01T23:39:57Z",
-            "open_issues": 1776,
+            "open_issues": 1777,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 105056,
+            "stars": 105055,
             "topics": [
               "cmd",
               "command-line",
@@ -446,8 +90,8 @@
             "id": 148682741,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:02:39Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-02T16:16:16Z",
+            "open_issues": 7,
             "owner": "openshift",
             "repo": "hive",
             "stars": 276,
@@ -467,8 +111,8 @@
             "id": 286818960,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:39:59Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-03T02:03:50Z",
+            "open_issues": 42,
             "owner": "openshift",
             "repo": "sandboxed-containers-operator",
             "stars": 51,
@@ -563,7 +207,7 @@
             "open_issues": 28,
             "owner": "nickjj",
             "repo": "ansigenome",
-            "stars": 446,
+            "stars": 445,
             "topics": [
               "ansible",
               "python"
@@ -642,8 +286,8 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-02T14:40:23Z",
-            "open_issues": 238,
+            "last_commit": "2026-10-02T23:59:20Z",
+            "open_issues": 243,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
             "stars": 6278,
@@ -668,11 +312,11 @@
             "id": 135516270,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T08:14:03Z",
-            "open_issues": 73,
+            "last_commit": "2026-10-02T18:28:08Z",
+            "open_issues": 75,
             "owner": "k3s-io",
             "repo": "k3s",
-            "stars": 34108,
+            "stars": 34111,
             "topics": [
               "k8s",
               "kubernetes"
@@ -817,7 +461,7 @@
             "open_issues": 57,
             "owner": "Netflix",
             "repo": "Priam",
-            "stars": 1039,
+            "stars": 1038,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:58.761Z"
@@ -838,7 +482,7 @@
             "open_issues": 34,
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17162,
+            "stars": 17163,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:58.761Z"
@@ -888,8 +532,8 @@
                 "id": 286818960,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T14:39:59Z",
-                "open_issues": 38,
+                "last_commit": "2026-10-03T02:03:50Z",
+                "open_issues": 42,
                 "owner": "openshift",
                 "repo": "sandboxed-containers-operator",
                 "stars": 51,
@@ -909,8 +553,8 @@
                 "id": 148682741,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T14:02:39Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-02T16:16:16Z",
+                "open_issues": 7,
                 "owner": "openshift",
                 "repo": "hive",
                 "stars": 276,
@@ -959,11 +603,11 @@
                 "id": 135516270,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T08:14:03Z",
-                "open_issues": 73,
+                "last_commit": "2026-10-02T18:28:08Z",
+                "open_issues": 75,
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 34108,
+                "stars": 34111,
                 "topics": [
                   "k8s",
                   "kubernetes"
@@ -1029,7 +673,7 @@
                 "open_issues": 47,
                 "owner": "microsoft",
                 "repo": "AzureKeyVaultExplorer",
-                "stars": 215,
+                "stars": 214,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:58.761Z"
@@ -1046,8 +690,8 @@
                 "id": 122269892,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T10:36:28Z",
-                "open_issues": 326,
+                "last_commit": "2026-10-02T20:32:43Z",
+                "open_issues": 328,
                 "owner": "Azure",
                 "repo": "Azurite",
                 "stars": 2270,
@@ -1088,7 +732,7 @@
                 "id": 92205085,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T09:36:54Z",
+                "last_commit": "2026-10-02T21:04:57Z",
                 "open_issues": 545,
                 "owner": "aws",
                 "repo": "aws-sam-cli",
@@ -1113,58 +757,10 @@
         }
       ],
       "title": "AWS Development"
-    },
-    {
-      "description": "Oracle Cloud Infrastructure (OCI) is an IaaS that delivers on-premises, high-performance computing power to run cloud native and enterprise company’s IT workloads. OCI provides real-time elasticity for enterprise applications by combining Oracle's autonomous services, integrated security, and serverless compute.\nOracle Cloud Portal\nOracle Cloud Training and Certification\nCloud Training for Oracle Cloud Infrastructure\nEnterprise Performance Management (EPM) Cloud - Training\nTop Oracle Cloud Courses on Udemy\nOracle Integration Cloud Services (OIC) - Oracle ICS on Udemy\nTop Oracle Cloud Courses on Coursera",
-      "items": [
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "If would you like to contribute to this guide simply make a Pull Request",
-              "description": ".",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Bash/PowerShell Guide",
-                "homepage": null,
-                "id": 301529364,
-                "language": "PowerShell",
-                "license": null,
-                "last_commit": "2024-01-04T22:19:22Z",
-                "open_issues": 0,
-                "owner": "mikeroyal",
-                "repo": "Bash-Powershell-Guide",
-                "stars": 63,
-                "topics": [
-                  "awesome",
-                  "awesome-bash",
-                  "awesome-list",
-                  "awesome-powershell",
-                  "awesome-readme",
-                  "awesome-resources",
-                  "bash",
-                  "bash-scripting",
-                  "powershell",
-                  "powershell-core",
-                  "powershell-module",
-                  "powershell-modules",
-                  "powershell-script"
-                ]
-              },
-              "first_seen": "2026-08-28T20:20:58.761Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Contribute"
-        }
-      ],
-      "title": "Oracle Cloud Learning Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:57:16.971Z",
+    "last_updated": "2026-10-03T04:28:01.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bash/PowerShell Guide",
