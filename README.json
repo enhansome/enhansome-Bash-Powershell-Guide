@@ -52,10 +52,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-01T23:39:57Z",
-            "open_issues": 1777,
+            "open_issues": 1778,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 105055,
+            "stars": 105061,
             "topics": [
               "cmd",
               "command-line",
@@ -286,11 +286,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-02T23:59:20Z",
-            "open_issues": 243,
+            "last_commit": "2026-10-03T09:44:30Z",
+            "open_issues": 242,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6278,
+            "stars": 6280,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -313,10 +313,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T18:28:08Z",
-            "open_issues": 75,
+            "open_issues": 74,
             "owner": "k3s-io",
             "repo": "k3s",
-            "stars": 34111,
+            "stars": 34114,
             "topics": [
               "k8s",
               "kubernetes"
@@ -482,7 +482,7 @@
             "open_issues": 34,
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17163,
+            "stars": 17165,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:58.761Z"
@@ -604,10 +604,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T18:28:08Z",
-                "open_issues": 75,
+                "open_issues": 74,
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 34111,
+                "stars": 34114,
                 "topics": [
                   "k8s",
                   "kubernetes"
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:28:01.883Z",
+    "last_updated": "2026-10-03T13:40:45.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bash/PowerShell Guide",
