@@ -51,11 +51,11 @@
             "id": 100060912,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-06T14:49:44Z",
-            "open_issues": 1777,
+            "last_commit": "2026-10-07T12:22:43Z",
+            "open_issues": 1776,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 105090,
+            "stars": 105092,
             "topics": [
               "cmd",
               "command-line",
@@ -90,8 +90,8 @@
             "id": 148682741,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T16:16:16Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-07T00:46:04Z",
+            "open_issues": 8,
             "owner": "openshift",
             "repo": "hive",
             "stars": 276,
@@ -111,11 +111,11 @@
             "id": 286818960,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T15:21:12Z",
-            "open_issues": 46,
+            "last_commit": "2026-10-07T15:38:40Z",
+            "open_issues": 44,
             "owner": "openshift",
             "repo": "sandboxed-containers-operator",
-            "stars": 51,
+            "stars": 50,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:58.761Z"
@@ -136,7 +136,7 @@
             "open_issues": 12,
             "owner": "willthames",
             "repo": "ansible-inventory-grapher",
-            "stars": 470,
+            "stars": 469,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:58.761Z"
@@ -207,7 +207,7 @@
             "open_issues": 28,
             "owner": "nickjj",
             "repo": "ansigenome",
-            "stars": 445,
+            "stars": 444,
             "topics": [
               "ansible",
               "python"
@@ -286,11 +286,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-06T15:01:52Z",
-            "open_issues": 252,
+            "last_commit": "2026-10-07T14:57:05Z",
+            "open_issues": 247,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6296,
+            "stars": 6297,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -312,11 +312,11 @@
             "id": 135516270,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T18:28:08Z",
-            "open_issues": 79,
+            "last_commit": "2026-10-06T18:26:56Z",
+            "open_issues": 80,
             "owner": "k3s-io",
             "repo": "k3s",
-            "stars": 34143,
+            "stars": 34149,
             "topics": [
               "k8s",
               "kubernetes"
@@ -482,7 +482,7 @@
             "open_issues": 34,
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17165,
+            "stars": 17164,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:58.761Z"
@@ -532,11 +532,11 @@
                 "id": 286818960,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T15:21:12Z",
-                "open_issues": 46,
+                "last_commit": "2026-10-07T15:38:40Z",
+                "open_issues": 44,
                 "owner": "openshift",
                 "repo": "sandboxed-containers-operator",
-                "stars": 51,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:58.761Z"
@@ -553,8 +553,8 @@
                 "id": 148682741,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T16:16:16Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-07T00:46:04Z",
+                "open_issues": 8,
                 "owner": "openshift",
                 "repo": "hive",
                 "stars": 276,
@@ -603,11 +603,11 @@
                 "id": 135516270,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T18:28:08Z",
-                "open_issues": 79,
+                "last_commit": "2026-10-06T18:26:56Z",
+                "open_issues": 80,
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 34143,
+                "stars": 34149,
                 "topics": [
                   "k8s",
                   "kubernetes"
@@ -690,11 +690,11 @@
                 "id": 122269892,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T10:57:55Z",
+                "last_commit": "2026-10-07T07:20:08Z",
                 "open_issues": 325,
                 "owner": "Azure",
                 "repo": "Azurite",
-                "stars": 2274,
+                "stars": 2276,
                 "topics": [
                   "azure-storage",
                   "azurite",
@@ -732,11 +732,11 @@
                 "id": 92205085,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T09:42:54Z",
-                "open_issues": 544,
+                "last_commit": "2026-10-07T09:41:54Z",
+                "open_issues": 543,
                 "owner": "aws",
                 "repo": "aws-sam-cli",
-                "stars": 6736,
+                "stars": 6735,
                 "topics": [
                   "api-gateway",
                   "aws",
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T15:25:22.527Z",
+    "last_updated": "2026-10-07T15:45:05.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bash/PowerShell Guide",
