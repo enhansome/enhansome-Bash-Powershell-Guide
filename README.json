@@ -19,7 +19,7 @@
             "open_issues": 216,
             "owner": "microsoft",
             "repo": "vscode-dev-containers",
-            "stars": 4740,
+            "stars": 4739,
             "topics": [
               "codespaces",
               "containers",
@@ -52,10 +52,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-09T21:11:18Z",
-            "open_issues": 1778,
+            "open_issues": 1780,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 105124,
+            "stars": 105135,
             "topics": [
               "cmd",
               "command-line",
@@ -111,8 +111,8 @@
             "id": 286818960,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T04:44:23Z",
-            "open_issues": 47,
+            "last_commit": "2026-10-11T11:54:21Z",
+            "open_issues": 49,
             "owner": "openshift",
             "repo": "sandboxed-containers-operator",
             "stars": 50,
@@ -287,10 +287,10 @@
             "language": "Rust",
             "license": null,
             "last_commit": "2026-10-10T14:23:46Z",
-            "open_issues": 239,
+            "open_issues": 243,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6310,
+            "stars": 6316,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -312,11 +312,11 @@
             "id": 135516270,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T18:27:29Z",
-            "open_issues": 85,
+            "last_commit": "2026-10-10T18:26:06Z",
+            "open_issues": 91,
             "owner": "k3s-io",
             "repo": "k3s",
-            "stars": 34160,
+            "stars": 34168,
             "topics": [
               "k8s",
               "kubernetes"
@@ -482,7 +482,7 @@
             "open_issues": 34,
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17167,
+            "stars": 17169,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:58.761Z"
@@ -532,8 +532,8 @@
                 "id": 286818960,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T04:44:23Z",
-                "open_issues": 47,
+                "last_commit": "2026-10-11T11:54:21Z",
+                "open_issues": 49,
                 "owner": "openshift",
                 "repo": "sandboxed-containers-operator",
                 "stars": 50,
@@ -603,11 +603,11 @@
                 "id": 135516270,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T18:27:29Z",
-                "open_issues": 85,
+                "last_commit": "2026-10-10T18:26:06Z",
+                "open_issues": 91,
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 34160,
+                "stars": 34168,
                 "topics": [
                   "k8s",
                   "kubernetes"
@@ -736,7 +736,7 @@
                 "open_issues": 537,
                 "owner": "aws",
                 "repo": "aws-sam-cli",
-                "stars": 6736,
+                "stars": 6737,
                 "topics": [
                   "api-gateway",
                   "aws",
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T14:41:26.984Z",
+    "last_updated": "2026-10-11T15:03:26.386Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bash/PowerShell Guide",
