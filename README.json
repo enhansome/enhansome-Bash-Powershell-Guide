@@ -52,10 +52,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-16T23:25:35Z",
-            "open_issues": 1783,
+            "open_issues": 1786,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 105175,
+            "stars": 105179,
             "topics": [
               "cmd",
               "command-line",
@@ -112,7 +112,7 @@
             "language": "Shell",
             "license": "Apache-2.0",
             "last_commit": "2026-10-17T03:33:17Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "openshift",
             "repo": "sandboxed-containers-operator",
             "stars": 50,
@@ -231,7 +231,7 @@
             "open_issues": 133,
             "owner": "ansible-community",
             "repo": "ara",
-            "stars": 2023,
+            "stars": 2024,
             "topics": [
               "ansible",
               "api",
@@ -286,11 +286,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-17T11:46:38Z",
-            "open_issues": 234,
+            "last_commit": "2026-10-17T13:23:31Z",
+            "open_issues": 232,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6385,
+            "stars": 6387,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -312,11 +312,11 @@
             "id": 135516270,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T20:05:46Z",
+            "last_commit": "2026-10-17T18:23:28Z",
             "open_issues": 76,
             "owner": "k3s-io",
             "repo": "k3s",
-            "stars": 34206,
+            "stars": 34211,
             "topics": [
               "k8s",
               "kubernetes"
@@ -482,7 +482,7 @@
             "open_issues": 34,
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17178,
+            "stars": 17179,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:58.761Z"
@@ -503,7 +503,7 @@
             "open_issues": 133,
             "owner": "restify",
             "repo": "node-restify",
-            "stars": 10689,
+            "stars": 10688,
             "topics": [
               "rest-api",
               "restify",
@@ -533,7 +533,7 @@
                 "language": "Shell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-17T03:33:17Z",
-                "open_issues": 53,
+                "open_issues": 54,
                 "owner": "openshift",
                 "repo": "sandboxed-containers-operator",
                 "stars": 50,
@@ -603,11 +603,11 @@
                 "id": 135516270,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T20:05:46Z",
+                "last_commit": "2026-10-17T18:23:28Z",
                 "open_issues": 76,
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 34206,
+                "stars": 34211,
                 "topics": [
                   "k8s",
                   "kubernetes"
@@ -694,7 +694,7 @@
                 "open_issues": 337,
                 "owner": "Azure",
                 "repo": "Azurite",
-                "stars": 2280,
+                "stars": 2281,
                 "topics": [
                   "azure-storage",
                   "azurite",
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T12:22:55.523Z",
+    "last_updated": "2026-10-18T12:46:36.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bash/PowerShell Guide",
