@@ -19,7 +19,7 @@
             "open_issues": 216,
             "owner": "microsoft",
             "repo": "vscode-dev-containers",
-            "stars": 4741,
+            "stars": 4740,
             "topics": [
               "codespaces",
               "containers",
@@ -51,11 +51,11 @@
             "id": 100060912,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-11T20:24:55Z",
-            "open_issues": 1783,
+            "last_commit": "2026-11-16T16:51:51Z",
+            "open_issues": 1782,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 105390,
+            "stars": 105396,
             "topics": [
               "cmd",
               "command-line",
@@ -111,11 +111,11 @@
             "id": 286818960,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T04:09:20Z",
-            "open_issues": 69,
+            "last_commit": "2026-11-16T18:38:56Z",
+            "open_issues": 58,
             "owner": "openshift",
             "repo": "sandboxed-containers-operator",
-            "stars": 52,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:58.761Z"
@@ -286,11 +286,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-11-15T10:40:48Z",
-            "open_issues": 204,
+            "last_commit": "2026-11-16T17:13:30Z",
+            "open_issues": 207,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6528,
+            "stars": 6532,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -312,11 +312,11 @@
             "id": 135516270,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T18:17:01Z",
-            "open_issues": 99,
+            "last_commit": "2026-11-16T18:18:20Z",
+            "open_issues": 102,
             "owner": "k3s-io",
             "repo": "k3s",
-            "stars": 34415,
+            "stars": 34420,
             "topics": [
               "k8s",
               "kubernetes"
@@ -440,7 +440,7 @@
             "open_issues": 8,
             "owner": "Netflix",
             "repo": "Raigad",
-            "stars": 345,
+            "stars": 346,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:58.761Z"
@@ -503,7 +503,7 @@
             "open_issues": 133,
             "owner": "restify",
             "repo": "node-restify",
-            "stars": 10687,
+            "stars": 10688,
             "topics": [
               "rest-api",
               "restify",
@@ -532,11 +532,11 @@
                 "id": 286818960,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T04:09:20Z",
-                "open_issues": 69,
+                "last_commit": "2026-11-16T18:38:56Z",
+                "open_issues": 58,
                 "owner": "openshift",
                 "repo": "sandboxed-containers-operator",
-                "stars": 52,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:58.761Z"
@@ -603,11 +603,11 @@
                 "id": 135516270,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T18:17:01Z",
-                "open_issues": 99,
+                "last_commit": "2026-11-16T18:18:20Z",
+                "open_issues": 102,
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 34415,
+                "stars": 34420,
                 "topics": [
                   "k8s",
                   "kubernetes"
@@ -691,10 +691,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-13T18:34:55Z",
-                "open_issues": 336,
+                "open_issues": 338,
                 "owner": "Azure",
                 "repo": "Azurite",
-                "stars": 2303,
+                "stars": 2304,
                 "topics": [
                   "azure-storage",
                   "azurite",
@@ -732,11 +732,11 @@
                 "id": 92205085,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T19:18:32Z",
-                "open_issues": 532,
+                "last_commit": "2026-11-16T18:03:08Z",
+                "open_issues": 536,
                 "owner": "aws",
                 "repo": "aws-sam-cli",
-                "stars": 6745,
+                "stars": 6744,
                 "topics": [
                   "api-gateway",
                   "aws",
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T15:50:53.672Z",
+    "last_updated": "2026-11-16T18:52:12.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bash/PowerShell Guide",
