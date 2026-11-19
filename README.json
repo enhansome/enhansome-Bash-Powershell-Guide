@@ -51,11 +51,11 @@
             "id": 100060912,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-18T17:16:06Z",
+            "last_commit": "2026-11-19T17:14:47Z",
             "open_issues": 1787,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 105426,
+            "stars": 105444,
             "topics": [
               "cmd",
               "command-line",
@@ -231,7 +231,7 @@
             "open_issues": 133,
             "owner": "ansible-community",
             "repo": "ara",
-            "stars": 2025,
+            "stars": 2026,
             "topics": [
               "ansible",
               "api",
@@ -286,11 +286,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-11-18T17:00:17Z",
-            "open_issues": 198,
+            "last_commit": "2026-11-19T15:19:46Z",
+            "open_issues": 192,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6539,
+            "stars": 6541,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -312,11 +312,11 @@
             "id": 135516270,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T18:20:12Z",
-            "open_issues": 101,
+            "last_commit": "2026-11-19T17:18:21Z",
+            "open_issues": 110,
             "owner": "k3s-io",
             "repo": "k3s",
-            "stars": 34439,
+            "stars": 34464,
             "topics": [
               "k8s",
               "kubernetes"
@@ -382,7 +382,7 @@
             "open_issues": 121,
             "owner": "Netflix",
             "repo": "dynomite",
-            "stars": 4209,
+            "stars": 4210,
             "topics": [
               "c",
               "cache",
@@ -411,7 +411,7 @@
             "open_issues": 121,
             "owner": "Netflix",
             "repo": "dynomite",
-            "stars": 4209,
+            "stars": 4210,
             "topics": [
               "c",
               "cache",
@@ -482,7 +482,7 @@
             "open_issues": 34,
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17251,
+            "stars": 17250,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:58.761Z"
@@ -603,11 +603,11 @@
                 "id": 135516270,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T18:20:12Z",
-                "open_issues": 101,
+                "last_commit": "2026-11-19T17:18:21Z",
+                "open_issues": 110,
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 34439,
+                "stars": 34464,
                 "topics": [
                   "k8s",
                   "kubernetes"
@@ -673,7 +673,7 @@
                 "open_issues": 47,
                 "owner": "microsoft",
                 "repo": "AzureKeyVaultExplorer",
-                "stars": 218,
+                "stars": 217,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:58.761Z"
@@ -690,11 +690,11 @@
                 "id": 122269892,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T18:34:55Z",
-                "open_issues": 340,
+                "last_commit": "2026-11-19T14:01:45Z",
+                "open_issues": 341,
                 "owner": "Azure",
                 "repo": "Azurite",
-                "stars": 2305,
+                "stars": 2306,
                 "topics": [
                   "azure-storage",
                   "azurite",
@@ -732,8 +732,8 @@
                 "id": 92205085,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T09:50:50Z",
-                "open_issues": 536,
+                "last_commit": "2026-11-19T09:49:52Z",
+                "open_issues": 538,
                 "owner": "aws",
                 "repo": "aws-sam-cli",
                 "stars": 6745,
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T17:30:06.545Z",
+    "last_updated": "2026-11-19T17:36:37.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bash/PowerShell Guide",
